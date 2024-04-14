@@ -1,7 +1,7 @@
 name: connectivity_plus_ohos
 description: This plugin allows Flutter apps to discover network connectivity types that can be used on OpenHarmony.
 repository: https://github.com/harmonycandies/connectivity_plus_ohos
-version: 0.0.1
+version: 0.0.2
 topics:
   - connectivity
   - connectivity-plus
@@ -11,7 +11,7 @@ topics:
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
-  flutter: ">=3.7.12"
+  flutter: ">=3.7.0"
 
 dependencies:
   flutter:
