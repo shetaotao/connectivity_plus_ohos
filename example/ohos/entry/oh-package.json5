@@ -6,6 +6,6 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "connectivity_plus_ohos": "file:../har/connectivity_plus_ohos.har"
+    "connectivity_plus_ohos": "file:..\\har\\connectivity_plus_ohos.har"
   }
 }
